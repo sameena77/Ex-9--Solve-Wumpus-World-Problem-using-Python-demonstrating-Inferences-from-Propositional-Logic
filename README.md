@@ -134,20 +134,11 @@ while(player):
         print("Ahhhhh!!!!\nYou fell in pit.\nAnd your score is: ",score,"\n")
         break
 ```
-</p>
-
-<hr>
-<h1>Sample Input and Output:</h1>
-<hr>
-
-<img width="797" height="756" alt="image" src="https://github.com/user-attachments/assets/5f41678f-fa84-4146-bfed-3535cc61f351" />
-<img width="921" height="630" alt="image" src="https://github.com/user-attachments/assets/ce8825cb-108b-46b2-bc59-09cd78306982" />
-
-
 
 ## OUTPUT
 
-<img width="797" height="866" alt="image" src="https://github.com/user-attachments/assets/c695a819-3f10-4a6c-b246-957fb2ef3570" />
+<img width="803" height="749" alt="image" src="https://github.com/user-attachments/assets/3320f090-c79e-4484-a536-7f69bf2dc722" />
+
 
 ## RESULT
 
